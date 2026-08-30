@@ -421,7 +421,7 @@ DHCP requests are broadcast messages, and routers do not normally forward broadc
 
 To allow clients in remote networks to communicate with the centralized DHCP server, DHCP relay was configured using:
 
-```text
+
 ip helper-address
 The appropriate router interfaces forward DHCP requests toward the DHCP server located in Network 3.
 
