@@ -606,4 +606,4 @@ Alexandria University
 
 ## ❤️ Acknowledgment
 
-Special thanks to our instructor for the guidance, support, and encouragement throughout the training and project.
+Special thanks to my instructor Aya Magdy for the guidance, support, and encouragement throughout the training and project.
